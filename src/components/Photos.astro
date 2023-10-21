@@ -10,7 +10,7 @@ import '../styles/masonry.css';
     {
         PHOTO_LIST.map( (picture : Photo) => (
             <div class="item" onclick="this.classList.toggle('selected')">
-                    <img src={'https://github.com/NuclearManatee/ilcasaledellapoiana/tree/master/public'+`picture.path`} alt={picture.alt} />
+                    <img src={`${picture.path}`} alt={picture.alt} />
             </div>    
         ))
     }

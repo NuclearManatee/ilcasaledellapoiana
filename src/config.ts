@@ -38,62 +38,62 @@ export const PHOTO_LIST : PhotoList = [
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './carousel/02.jpeg'
+        path: 'https://i.postimg.cc/1VDHykWr/01.jpg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './carousel/01.jpeg'
+        path: 'https://i.postimg.cc/8fdh2h5y/010.jpg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './carousel/03.jpeg'
+        path: 'https://i.postimg.cc/njDKk8tf/011.jpg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './carousel/04.jpeg'
+        path: 'https://i.postimg.cc/8sLBfVHh/012.jpg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './carousel/05.jpeg'
+        path: 'https://i.postimg.cc/jLrcMj5g/02.jpg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './carousel/06.jpeg'
+        path: 'https://i.postimg.cc/MXBt0BWf/03.jpg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './carousel/07.jpeg'
+        path: 'https://i.postimg.cc/DSvgKY11/04.jpg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './carousel/08.jpeg'
+        path: 'https://i.postimg.cc/tsBzRtzw/05.jpg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './carousel/09.jpeg'
+        path: 'https://i.postimg.cc/jW9QPxmh/06.jpg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './carousel/010.jpeg'
+        path: 'https://i.postimg.cc/y3CmpfVg/07.jpg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './carousel/011.jpeg'
+        path: 'https://i.postimg.cc/1fcH2ZV9/08.jpg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './carousel/012.jpeg'
+        path: 'https://i.postimg.cc/McXmnMPT/09.jpg'
     }
 ];
 
