@@ -93,7 +93,7 @@ export const PHOTO_LIST : PhotoList = [
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './img/carousel/012.jpeg'
+        path: './carousel/012.jpeg'
     }
 ];
 
