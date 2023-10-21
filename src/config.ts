@@ -105,12 +105,12 @@ export const GEO : Geo = {
 export const ABOUT_SECTION : AboutSection = {
     linkList : [
         {
-            imgPath : '/img/ilnidodellapoiana.png',
+            imgPath : 'ilnidodellapoiana.png',
             link : 'https://www.ilnidodellapoiana.com',
             description : 'Il Nido della Poiana'
         },
         {
-            imgPath : '/img/facebook.png',
+            imgPath : 'facebook.png',
             link : 'https://www.facebook.com/groups/411349850989553',
             description : 'Rimani aggiornato su Facebook'
         }
