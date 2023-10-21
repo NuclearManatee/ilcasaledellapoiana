@@ -1,0 +1,10 @@
+---
+import DefaultLayout from '../layouts/DefaultLayout.astro';
+import Photos from '../components/Photos.astro';
+import {PHOTO_LIST} from '../config';
+
+---
+
+<DefaultLayout>
+	<Photos list={PHOTO_LIST} />
+</DefaultLayout>

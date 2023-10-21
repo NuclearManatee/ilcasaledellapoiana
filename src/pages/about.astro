@@ -1,0 +1,19 @@
+---
+import DefaultLayout from '../layouts/DefaultLayout.astro';
+import { ABOUT_SECTION } from '../config';
+import type { AboutLink } from '../types';
+import '../styles/about.css';
+---
+
+
+<DefaultLayout>
+	{ ABOUT_SECTION.description && <div class='description'>{ABOUT_SECTION.description}</div> }
+		<div class="link-list">
+			{ABOUT_SECTION.linkList.map( (item : AboutLink) => (
+				<a href={item.link} ><div class='link-list item'>
+					<img src={item.imgPath} />
+					{ item.description && <span>{item.description}</span>}
+				</div></a>
+			))}
+		</div>
+</DefaultLayout>
