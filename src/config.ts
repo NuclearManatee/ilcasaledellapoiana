@@ -38,57 +38,57 @@ export const PHOTO_LIST : PhotoList = [
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './img/carousel/02.jpeg'
+        path: './carousel/02.jpeg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './img/carousel/01.jpeg'
+        path: './carousel/01.jpeg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './img/carousel/03.jpeg'
+        path: './carousel/03.jpeg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './img/carousel/04.jpeg'
+        path: './carousel/04.jpeg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './img/carousel/05.jpeg'
+        path: './carousel/05.jpeg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './img/carousel/06.jpeg'
+        path: './carousel/06.jpeg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './img/carousel/07.jpeg'
+        path: './carousel/07.jpeg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './img/carousel/08.jpeg'
+        path: './carousel/08.jpeg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './img/carousel/09.jpeg'
+        path: './carousel/09.jpeg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './img/carousel/010.jpeg'
+        path: './carousel/010.jpeg'
     },
     {
         name: 'one',
         alt: 'una foto de il casale della poiana',
-        path: './img/carousel/011.jpeg'
+        path: './carousel/011.jpeg'
     },
     {
         name: 'one',
