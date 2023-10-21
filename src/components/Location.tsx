@@ -9,7 +9,7 @@ interface Props {
 export default function Location( {coordinates} : Props ){
 
     return(<>
-        <MapContainer></MapContainer>
+        <MapContainer
          center={[coordinates.lat, coordinates.lon]} zoom={12} scrollWheelZoom={false} className="map">
             <TileLayer
                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
